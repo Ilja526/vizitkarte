@@ -1,6 +1,5 @@
 .a{
     text-align: center;
-
   }
   .b{
     text-align: center;
@@ -20,15 +19,6 @@
   .l{
     text-align: right;
   }
-  .Axiam-MegaMultiTruck{
-    background-color: rgba(235, 238, 38, 0.774);
-  }
-  .MazdaR360{
-    background-color: rgba(240, 9, 9, 0.733);
-  }
-  .MohsOstentatienneOperaSedan{
-    background-color: rgba(165, 42, 42, 0.486);
-  }
-  .BMWIsetta300{
-    background-color: rgb(247, 3, 52);
-  }
+.javascriptvards{
+  text-align: center;
+}
