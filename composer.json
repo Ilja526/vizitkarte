@@ -1,0 +1,7 @@
+{
+    "name": "04dpiivanenkovs/www",
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "9.5.x-dev"
+    }
+}
