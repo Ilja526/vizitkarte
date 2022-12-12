@@ -9,7 +9,6 @@
     <title>Vizitkarte firma par mašinu</title>
 </head>
 <body>
-    
     <script src="js/window.js"></script>
     <h1 class="a">Organizacija par mašinu Latvija</h1>
     <p class="b">Ilja Ivaņenkovs</p>

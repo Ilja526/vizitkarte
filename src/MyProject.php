@@ -14,4 +14,18 @@ echo $project->projectName;
 echo $project->email;
 echo $project->cik_šeit_bus_faili;
 echo $project->cik_bus_floder;
+
+class Myclass{
+    public $name;
+    public $value;
+    public $time;
+
+    public function __constructor($name,$value,$time){
+        $this->name=$name;
+        $this->value=$value;
+        $this->time=$time;
+    }
+}
+$class=new Myclass('Vards','12346','10:00');
+echo $class->name;
 ?>
