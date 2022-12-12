@@ -1,3 +1,17 @@
+<?php
+
+// using composer Class autoloader
+include "vendor/autoload.php";
+
+use App\Database;
+
+$database = new Database();
+
+echo $database->host;
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
